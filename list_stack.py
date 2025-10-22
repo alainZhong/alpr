@@ -66,6 +66,6 @@ def searchinsert2(nums,target):
 
 
 
-nums=[1,3,4,54,64]
-target=56
-print(searchinsert2(nums,target))
+#nums=[1,3,4,54,64]
+#target=56
+#print(searchinsert2(nums,target))
