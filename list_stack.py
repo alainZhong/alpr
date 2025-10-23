@@ -69,3 +69,4 @@ def searchinsert2(nums,target):
 #nums=[1,3,4,54,64]
 #target=56
 #print(searchinsert2(nums,target))
+#注意，在对列表进行索引时，需要[],而不是()
